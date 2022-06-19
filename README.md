@@ -1,2 +1,2 @@
-# npm-basic
-This is the basic NPM project
+# gulp
+This is the basic NPM project using Gulp
